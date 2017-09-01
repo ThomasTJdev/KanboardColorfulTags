@@ -1,3 +1,5 @@
+# Not maintained
+
 #  COLORFUL TAGS
 This will create colorful tags like Gitlab Issue Boards labels.
 
