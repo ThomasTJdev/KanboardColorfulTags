@@ -1,5 +1,8 @@
 # Not maintained
 
+See https://github.com/aljawaid/TagManager for updated code.
+
+
 #  COLORFUL TAGS
 This will create colorful tags like Gitlab Issue Boards labels.
 
